@@ -10,3 +10,6 @@ var myAge = 27
 let my_first_Name = "Kunal"
 
 let _myLastName ="Thakur"
+
+let $mySallay = 1920000
+
